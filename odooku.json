@@ -1,7 +1,7 @@
 {
   "odoo": {
     "repo": "odoo/odoo",
-    "branch": "10.0",
+    "branch": "9.0",
     "commit": null
   },
   "compat": {
