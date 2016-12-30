@@ -1,4 +1,4 @@
-![Odooku](https://cdn.rawgit.com/adaptivdesign/odooku/master/img.svg "Odooku")
+![Odooku](https://cdn.rawgit.com/mgrigajtis/odooku/master/img.svg "Odooku")
 
 # Odooku
 Run Odoo on Heroku.
@@ -6,7 +6,7 @@ Run Odoo on Heroku.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ```
-$ heroku create --buildpack https://github.com/adaptivdesign/odooku-buildpack
+$ heroku create --buildpack https://github.com/mgrigajtis/odooku-buildpack
 $ heroku addons:create heroku-postgresql:hobby-basic
 $ heroku addons:create heroku-redis:hobby-dev
 $ heroku config:set AWS_ACCESS_KEY_ID=<your_aws_key>
